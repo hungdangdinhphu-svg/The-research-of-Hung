@@ -9,7 +9,7 @@ The primary languages ​​I use in this repo are Vietnamese & English.
 
 **Bài toán quan trọng:**
 
-
+https://github.com/hungdangdinhphu-svg/The-Research-of-Hung/blob/main/from14.08.2026/files/A4/README.md
 
 **Bài toán quan trọng:**
 
