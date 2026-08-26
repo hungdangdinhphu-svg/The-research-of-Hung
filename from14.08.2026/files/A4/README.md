@@ -17,3 +17,19 @@ Phản đề $-A$ & Tập giả sai $-A^*$ (Pha Phá vỡ / Boundary Hunting): V
 
 $-A^*$.
 
+Hợp đề Meta $+A$ (Meta-Synthesis): Xây dựng một không gian lý thuyết bao trùm $+A$ trên miền xác định mở rộng $D_{+A} \supseteq D_A \cup A'$, thỏa mãn hai điều kiện biên:
+
+1. Tính tương thích nghịch (Correspondence Principle): Khi thu hẹp về miền $D_A$, $+A$ suy biến tiệm cận về lại $A$ (bảo toàn giá trị của tri thức cũ).
+
+2. Tính giải phóng (Resolution): Trong miền $A'$, $+A$ giải thích hoàn toàn tập nghịch lý $-A^*$.
+
+**Nếu xem đây là một vũ khí/công cụ hành động, nó không hoạt động bằng cách "phủ định sạch trơn" cái cũ, mà bằng cơ chế tái định hình không gian:**
+```txt
+[Mô hình A (Miền D_A)] 
+       │
+       ▼ (Khai thác vùng biên A')
+[Tập nghịch lý -A* trong A'] 
+       │
+       ▼ (Tái cấu trúc khung nhận thức)
+[Mô hình Meta +A (Miền D_+A = D_A ∪ A')]
+```
