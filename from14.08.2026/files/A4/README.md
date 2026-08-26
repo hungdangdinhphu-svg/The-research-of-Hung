@@ -37,7 +37,7 @@ Hợp đề Meta $+A$ (Meta-Synthesis): Xây dựng một không gian lý thuy�
 
 Bước 1 — Khai thác Biên (Boundary Hunting): Không tấn công $A$ ở trung tâm (nơi nó đang đúng). Đi tìm chính xác "vùng biên suy biến" $A'$ nơi mô hình hiện tại bắt đầu rạn nứt.
 
-Bước 2 — Cố định Nghịch lý (Isolating $-A^*$ ):
+Bước 2 — Cố định Nghịch lý (Isolating $-A^*$):
 
 Thu thập các luận điểm, dữ liệu $-A^*$ mà mô hình cũ coi là "lỗi" hoặc "ngoại lệ". Đây chính là nhiên liệu cho cuộc cách mạng.
 
