@@ -34,3 +34,18 @@ Hợp đề Meta $+A$ (Meta-Synthesis): Xây dựng một không gian lý thuy�
        ▼ (Tái cấu trúc khung nhận thức)
 [Mô hình Meta +A (Miền D_+A = D_A ∪ A')]
 ```
+
+Bước 1 — Khai thác Biên (Boundary Hunting): Không tấn công $A$ ở trung tâm (nơi nó đang đúng). Đi tìm chính xác "vùng biên suy biến" $A'$ nơi mô hình hiện tại bắt đầu rạn nứt.
+
+Bước 2 — Cố định Nghịch lý (Isolating $-A^*$): Thu thập các luận điểm, dữ liệu $-A^*$ mà mô hình cũ coi là "lỗi" hoặc "ngoại lệ". Đây chính là nhiên liệu cho cuộc cách mạng.
+
+Bước 3 — Nhảy vọt Hệ hình (Generalization Jump): Thiết lập $+A$. Cách mạng xảy ra khi ta không thay thế $A$ bằng một đáp án đồng cấp, mà biến $A$ thành một trường hợp đặc biệt (limiting case) của một sự thật rộng lớn hơn.
+
+**Liên quan:**
+
+Nguyên lý Tương thích Cấu trúc:
+
+**Mâu thuẫn không phải là đặc tính của bản thể thực tại, mà là dấu hiệu báo hiệu sự lệch tầng giữa Mô hình nhận thức và Bán kính xác định.**
+
+Khi xuất hiện mâu thuẫn giữa $A$ và $-A^*$, thực chất thực tại không tự mâu thuẫn với chính nó. Mâu thuẫn đó xuất hiện vì con người đang cố ép miền $A'$ vận hành theo quy luật của miền $D_A$. Việc tìm ra $+A$ chính là quá trình triệt tiêu mâu thuẫn giả để đưa nhận thức về đúng quy mô của thực tại.
+
