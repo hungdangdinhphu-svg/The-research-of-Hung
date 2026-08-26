@@ -9,4 +9,4 @@ Có một mệnh đề +A, phát biểu rằng A đúng trong phạm vi "tương
 
 Đối với con người, những ứng dụng quan trọng, khoa học, đời sống, triết học,... Không tồn tại "mâu thuẫn".
 
-Hãy 
+Có lẽ chặt chẽ hơn :
