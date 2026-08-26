@@ -24,6 +24,7 @@ Hợp đề Meta $+A$ (Meta-Synthesis): Xây dựng một không gian lý thuy�
 2. Tính giải phóng (Resolution): Trong miền $A'$, $+A$ giải thích hoàn toàn tập nghịch lý $-A^*$.
 
 **Nếu xem đây là một vũ khí/công cụ hành động, nó không hoạt động bằng cách "phủ định sạch trơn" cái cũ, mà bằng cơ chế tái định hình không gian:**
+
 ```txt
 [Mô hình A (Miền D_A)] 
        │
