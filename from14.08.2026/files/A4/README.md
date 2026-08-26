@@ -1,4 +1,4 @@
-**Làm sao để khai thác tốt và tạo ra cách mạng ? Liệu có thể sử dụng cho việc "bẻ khóa" các định lý bất khả thi hay không? :**
+**Làm sao để khai thác tốt và tạo ra cách mạng? Liệu có thể sử dụng cho việc "bẻ khóa" các định lý bất khả thi hay không? :**
 
 
 Với một mệnh đề A.
