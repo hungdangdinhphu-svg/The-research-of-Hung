@@ -7,11 +7,13 @@ The primary languages ​​I use in this repo are Vietnamese & English.
 
 # Access
 
-**Bài toán quan trọng:**
+**Bài toán quan trọng 2:**
 
-https://github.com/hungdangdinhphu-svg/The-Research-of-Hung/blob/main/from14.08.2026/files/A4/README.md
+Phạm vi lớn hơn : 
 
-**Bài toán quan trọng:**
+Phạm vi nhỏ hơn : https://github.com/hungdangdinhphu-svg/The-Research-of-Hung/blob/main/from14.08.2026/files/A4/README.md
+
+**Bài toán quan trọng 1:**
 
 https://github.com/hungdangdinhphu-svg/The-Research-of-Hung/blob/main/from14.08.2026/files/A3/.txt
 
