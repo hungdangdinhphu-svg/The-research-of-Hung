@@ -8,3 +8,5 @@ Có một mệnh đề -A, chứng minh rằng A sai trong phạm vi A', sử d�
 Có một mệnh đề +A, phát biểu rằng A đúng trong phạm vi "rộng hơn" A', nhưng không vi phạm các lập luận con -A*. Và không bị mệnh đề -A chứng minh +A là sai.
 
 Đối với con người, những ứng dụng quan trọng, khoa học, đời sống, triết học,... Không tồn tại "mâu thuẫn". Và thật sự tạo ra giá trị, cách mạng?
+
+**Liên quan:** Phép biện chứng Hegelian và Lý thuyết Mở rộng Hệ tiên đề
