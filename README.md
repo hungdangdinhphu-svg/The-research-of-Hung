@@ -1,7 +1,7 @@
 # The-Research-of-Hung
 Hưng's Research
 
-The primary languages ​​I use in this repo are Vietnamese & English. 
+The primary languages ​​I use in this repo are Vietnamese & English. Hy vọng trước khi tôi chết, tôi sẽ cống hiến được gì đó?
 
 **Warning** : The folder "from14.08.2026" may contain inaccuracies or errors, although I have made every effort to verify the information thoroughly.
 
